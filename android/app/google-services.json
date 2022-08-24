@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630486903710",
+    "project_id": "nctsupportapp-d2f42",
+    "storage_bucket": "nctsupportapp-d2f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630486903710:android:64f78b925de464f777848f",
+        "android_client_info": {
+          "package_name": "com.nct.supportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630486903710-9rsot2r1m3m6o9qfv2us5mju9196esnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3tffgf9q_yBMpmDUoPf2Yjd8xhiaOX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630486903710-9rsot2r1m3m6o9qfv2us5mju9196esnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
